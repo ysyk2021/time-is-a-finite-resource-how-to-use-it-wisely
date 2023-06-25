@@ -1,5 +1,4 @@
-Chapter 4: Developing an Actionable Plan for Using Time Wisely: Techniques for Developing a Plan that Integrates Time Management Principles
-===========================================================================================================================================
+# Techniques for Developing a Plan that Integrates Time Management Principles
 
 Effective time management requires planning and organization. In this chapter, we will explore techniques for developing an actionable plan that integrates time management principles.
 

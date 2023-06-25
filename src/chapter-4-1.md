@@ -1,5 +1,4 @@
-Chapter 3: Reimagining Your Relationship with Time: The Role of Mindset and Perception in Using Time Wisely
-===========================================================================================================
+# The Role of Mindset and Perception in Using Time Wisely
 
 The Power of Mindset in Time Management
 ---------------------------------------

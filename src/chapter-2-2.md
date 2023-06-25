@@ -1,5 +1,4 @@
-Chapter 1: Understanding the Value of Time: Techniques for Cultivating a Mindset towards Time Management
-========================================================================================================
+# Techniques for Cultivating a Mindset towards Time Management
 
 The Importance of Time Management
 ---------------------------------

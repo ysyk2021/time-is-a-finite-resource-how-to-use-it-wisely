@@ -1,5 +1,4 @@
-Chapter 8: Achieving Long-Term Success through Wise Time Use: Strategies for Achieving Sustained Success through a Practice of Wise Time Use
-============================================================================================================================================
+# Strategies for Achieving Sustained Success through a Practice of Wise Time Use
 
 Achieving sustained success through wise time use requires developing an ongoing practice of effective time management and prioritization. In this chapter, we will explore some strategies for achieving sustained success through a practice of wise time use.
 

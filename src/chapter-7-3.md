@@ -1,5 +1,4 @@
-Chapter 6: Managing Distractions and Staying Focused: Strategies for Developing Effective Stress-Management Techniques
-======================================================================================================================
+# Strategies for Developing Effective Stress-Management Techniques
 
 Managing distractions and staying focused is essential for effective time management and stress-management. In this chapter, we will explore strategies for developing effective stress-management techniques.
 

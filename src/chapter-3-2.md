@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Current Relationship with Time: Techniques for Identifying Areas of Strength and Weakness in Current Approaches to Time Management
-============================================================================================================================================================
+# Techniques for Identifying Areas of Strength and Weakness in Current Approaches to Time Management
 
 Assessing your current relationship with time is an essential step in improving your approach to time management. In this chapter, we will explore techniques for identifying areas of strength and weakness in your current approach to time management.
 

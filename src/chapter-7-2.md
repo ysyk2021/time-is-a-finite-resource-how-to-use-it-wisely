@@ -1,5 +1,4 @@
-Chapter 6: Managing Distractions and Staying Focused: Techniques for Managing Distractions and Staying Focused on Priority Tasks
-================================================================================================================================
+# Techniques for Managing Distractions and Staying Focused on Priority Tasks
 
 Distractions can be a significant barrier to effective time management. In this chapter, we will explore techniques for managing distractions and staying focused on priority tasks.
 

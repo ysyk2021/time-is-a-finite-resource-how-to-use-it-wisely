@@ -1,5 +1,4 @@
-Chapter 4: Developing an Actionable Plan for Using Time Wisely: Strategies for Setting Specific, Measurable, Achievable, Relevant, and Time-Bound (SMART) Goals and Breaking Down Large Goals into Smaller Steps
-================================================================================================================================================================================================================
+# Strategies for Setting Specific, Measurable, Achievable, Relevant, and Time-Bound (SMART) Goals and Breaking Down Large Goals into Smaller Steps
 
 Developing an actionable plan is essential for using time wisely. In this chapter, we will explore strategies for setting SMART goals and breaking down large goals into smaller steps.
 

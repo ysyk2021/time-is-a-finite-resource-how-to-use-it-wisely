@@ -1,5 +1,4 @@
-Chapter 7: Achieving Work-Life Balance through Wise Time Use: Techniques for setting boundaries and managing expectations
-=========================================================================================================================
+# Techniques for setting boundaries and managing expectations
 
 Achieving a healthy work-life balance is essential for ensuring overall well-being and happiness. In this chapter, we will explore techniques for setting boundaries and managing expectations to achieve work-life balance through wise time use.
 

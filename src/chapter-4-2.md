@@ -1,5 +1,4 @@
-Chapter 3: Reimagining Your Relationship with Time: Techniques for Reframing Beliefs and Attitudes Towards Time to Promote Growth and Development
-=================================================================================================================================================
+# Techniques for Reframing Beliefs and Attitudes Towards Time to Promote Growth and Development
 
 Our beliefs and attitudes towards time can greatly impact how we use it. In this chapter, we will explore techniques for reframing our beliefs and attitudes towards time to promote growth and development.
 
