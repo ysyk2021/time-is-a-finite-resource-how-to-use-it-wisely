@@ -8,7 +8,7 @@ Understanding the Importance of Prioritization
 
 Time is a finite resource, and it is crucial to make the most of it. Prioritization involves identifying tasks and activities that hold the highest significance and focusing on them first. By distinguishing between urgent and important tasks, we can allocate our time and energy more efficiently. Prioritization helps us avoid wasting time on low-value activities and ensures that we focus on what truly matters.
 
-1. The Eisenhower Matrix
+1\. The Eisenhower Matrix
 ------------------------
 
 The Eisenhower Matrix is a powerful tool for prioritization. It categorizes tasks into four quadrants based on their urgency and importance:
@@ -23,7 +23,7 @@ The Eisenhower Matrix is a powerful tool for prioritization. It categorizes task
 
 By using the Eisenhower Matrix, we can prioritize tasks effectively, ensuring that high-priority tasks receive the attention they deserve.
 
-2. Techniques for Prioritization
+2\. Techniques for Prioritization
 --------------------------------
 
 In addition to the Eisenhower Matrix, several other techniques can aid in prioritizing tasks:
@@ -38,7 +38,7 @@ In addition to the Eisenhower Matrix, several other techniques can aid in priori
 
 * **Must, Should, Want Framework** - Prioritize tasks based on whether they are necessary, should be done, or you want to do them. This approach aligns tasks with personal values and goals, aiding in effective decision-making.
 
-3. Benefits of Prioritization
+3\. Benefits of Prioritization
 -----------------------------
 
 Prioritization offers several benefits in utilizing time wisely:
