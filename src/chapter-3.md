@@ -29,5 +29,3 @@ Some strategies for analyzing past successes and failures include:
 * Reviewing past schedules or calendars to identify patterns and trends in time usage.
 
 By using these techniques to assess our current relationship with time and analyze past successes and failures, we can develop more effective strategies for using time wisely in the future.
-
-Thank you for reading "Time is a Finite Resource: How to Use it Wisely." We hope this chapter has provided you with practical insights and actionable strategies for assessing your current relationship with time.

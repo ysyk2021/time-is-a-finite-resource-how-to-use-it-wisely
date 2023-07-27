@@ -1,4 +1,4 @@
-Chapter: Strategies for Managing Time Effectively by Focusing on High-Priority Tasks First
+Strategies for Managing Time Effectively by Focusing on High-Priority Tasks First
 ==========================================================================================
 
 In this chapter, we will explore effective strategies for managing time by prioritizing high-priority tasks. By understanding the importance of prioritization and implementing practical techniques, we can optimize our use of time, increase productivity, and achieve better results.

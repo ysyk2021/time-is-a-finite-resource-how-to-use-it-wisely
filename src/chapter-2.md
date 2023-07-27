@@ -34,5 +34,3 @@ To overcome these obstacles, some tips include:
 * Celebrating small successes: Recognizing progress, no matter how small, can help keep you motivated and on track.
 
 By identifying personal obstacles to effective time management and taking steps to overcome them, we can use our time more wisely and achieve greater success in all areas of our lives.
-
-Thank you for reading "Time is a Finite Resource: How to Use it Wisely." We hope this chapter has provided you with practical insights and actionable strategies for understanding the value of time.
