@@ -1,5 +1,3 @@
-Introduction
-============
 
 Time is a finite resource that cannot be replenished once it's gone. This concept may seem obvious, yet many of us struggle to effectively manage our time, leading to missed opportunities and increased stress levels.
 

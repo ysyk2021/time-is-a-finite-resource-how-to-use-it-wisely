@@ -1,5 +1,3 @@
-Chapter 7: Achieving Work-Life Balance through Wise Time Use
-============================================================
 
 Achieving work-life balance is essential for a fulfilling and healthy life. In this chapter, we will explore how wise use of time can help individuals achieve a healthy work-life balance.
 

@@ -1,5 +1,3 @@
-Chapter 4: Developing an Actionable Plan for Using Time Wisely
-==============================================================
 
 In this chapter, we will explore the importance of developing an actionable plan for using time wisely. We'll discuss the benefits of having a plan, techniques for developing one that integrates time management principles, and strategies for setting specific, measurable, achievable, relevant, and time-bound (SMART) goals and breaking down large goals into smaller steps.
 

@@ -1,4 +1,3 @@
-# Introduction
 
 Welcome to "Time is a Finite Resource: How to Use it Wisely." This book is designed to help you make the most of your time and achieve your goals by using your time wisely.
 

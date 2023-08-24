@@ -1,5 +1,3 @@
-Chapter 3: Reimagining Your Relationship with Time
-==================================================
 
 Our relationship with time greatly impacts how we use it. In this chapter, we will explore the role of mindset and perception in using time wisely, techniques for reframing beliefs and attitudes towards time to promote growth and development, and strategies for developing a positive relationship with time that aligns with personal values and vision.
 

@@ -1,5 +1,3 @@
-Chapter 2: Assessing Your Current Relationship with Time
-========================================================
 
 The Importance of Assessing Your Current Relationship with Time when Seeking to Use it Wisely
 ---------------------------------------------------------------------------------------------

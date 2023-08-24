@@ -1,5 +1,3 @@
-Chapter 6: Managing Distractions and Staying Focused
-====================================================
 
 One of the biggest challenges to using time wisely is managing distractions and staying focused on priority tasks. This chapter will explore common distractions and techniques for managing them, as well as strategies for developing effective stress-management techniques.
 

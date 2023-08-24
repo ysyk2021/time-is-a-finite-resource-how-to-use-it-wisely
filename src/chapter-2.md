@@ -1,5 +1,3 @@
-Chapter 1: Understanding the Value of Time
-==========================================
 
 Understanding the Value of Time and Its Impact on Personal and Professional Success
 -----------------------------------------------------------------------------------

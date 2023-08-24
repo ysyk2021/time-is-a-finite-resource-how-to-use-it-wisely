@@ -1,5 +1,3 @@
-Techniques for Setting Boundaries and Managing Expectations
-====================================================================
 
 In our fast-paced world, setting boundaries and managing expectations is crucial for effectively utilizing our finite resource of time. This chapter explores practical techniques to help you establish boundaries and manage expectations, enabling you to maintain balance, reduce stress, and optimize your productivity.
 

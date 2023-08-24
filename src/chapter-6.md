@@ -1,5 +1,3 @@
-Chapter 5: Leveraging Prioritization to Use Time Wisely
-=======================================================
 
 Prioritization is a key component of using time wisely. In this chapter, we will explore the role of prioritization in effective time management and provide techniques for prioritizing tasks and activities based on their importance and urgency. We will also provide strategies for managing time effectively by focusing on high-priority tasks first.
 
