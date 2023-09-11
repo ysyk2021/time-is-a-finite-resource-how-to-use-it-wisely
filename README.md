@@ -1,3 +1,6 @@
+# Time is a Finite Resource: How to Use it Wisely
+
+Book Link: [https://zhengpublishing.com/time-is-a-finite-resource-how-to-use-it-wisely/](https://zhengpublishing.com/time-is-a-finite-resource-how-to-use-it-wisely/)
 
 Welcome to "Time is a Finite Resource: How to Use it Wisely." This book is designed to help you make the most of your time and achieve your goals by using your time wisely.
 
